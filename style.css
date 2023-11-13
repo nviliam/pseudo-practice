@@ -1,0 +1,87 @@
+h1 {
+    text-align: center;
+
+}
+
+.container {
+    width: 300px;
+    margin: auto
+}
+
+#one {
+    border-style: groove;
+    border-top: none;
+    margin: 0;
+    padding: 10px;
+
+}
+
+#one:hover {
+    background: blue;
+    }
+
+#two {
+    border-style: groove;
+    margin: 0;
+    padding: 10px;
+}
+
+
+#two:hover {
+    background: blue;
+    }
+
+#three {
+    border-style: groove;
+    margin: 0;
+    padding: 10px;
+}
+
+
+#three:hover {
+    background: blue;
+    }
+
+#four {
+    border-style: groove;
+    margin: 0;
+    padding: 10px;
+}
+
+
+#four:hover {
+    background: blue;
+    }
+
+#five {
+    border-style: groove;
+    margin: 0;
+    padding: 10px;
+}
+
+#five:hover {
+    background: blue;
+    }
+
+#six {
+    border-style: groove;
+    margin: 0;
+    padding: 10px;
+}
+
+
+#six:hover {
+    background: blue;
+    }
+
+#seven {
+    border-style: groove;
+    margin: 0;
+    padding: 10px;
+    border-bottom: none;
+}
+
+
+#seven:hover {
+    background: blue;
+    }
